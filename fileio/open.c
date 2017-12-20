@@ -6,7 +6,7 @@
 
 #define FILEPATH "/tmp/tempfile"
 
-int main()
+int main(void)
 {
 	int fd;
 
